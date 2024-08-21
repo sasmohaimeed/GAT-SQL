@@ -12,6 +12,6 @@ table.json
 database.zip // because it is too large and we cannot upload it to GitHub. Therefore, you can take it from the SParC dataset official website https://yale-lily.github.io/sparc
 
 
-For the other type of prompts, you can edit the cell related to the construction of the prompt.
+For other types of prompts, you can edit the cell related to the construction of the prompt based on the paper.
 Or you can communicate with us using this email sasmohaimeed@gmail.com
 
